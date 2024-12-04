@@ -1,3 +1,5 @@
 Classification/libriphone/*
 Classification/sample_submission.csv
+Classification/model.ckpt
 Regression/runs/*
+Self-attention/Dataset/*
