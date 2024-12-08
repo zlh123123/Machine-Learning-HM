@@ -1,5 +1,7 @@
 Classification/libriphone/*
 Classification/sample_submission.csv
 Classification/model.ckpt
+Classification/libriphone.zip
 Regression/runs/*
 Self-attention/Dataset/*
+CNN/ml2022spring-hw3b.zip
